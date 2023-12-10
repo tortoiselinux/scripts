@@ -2,8 +2,8 @@
 
 Para utilizar a gama de Scripts nesse repositório existem algumas considerações a serem feitas.
 
-** você precisa utilizar o instalador tegg
-** você precisa de um diretório chamado Scripts, e dentro dele três diretórios (src, symlinks, changelog)
+* você precisa utilizar o instalador tegg
+* você precisa de um diretório chamado Scripts, e dentro dele três diretórios (src, symlinks, changelog)
 
 por enquanto o tegg não gera essa estrutura automaticamente, mas temos esse objetivo.
 
